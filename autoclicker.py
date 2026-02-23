@@ -287,7 +287,7 @@ class AutoClicker:
             item('Show', self.show_window),
             item('Quit', self.quit_app)
         )
-        self.tray_icon = pystray.Icon('autoclicker', image, 'AutoClicker Pro', menu)
+        self.tray_icon = pystray.Icon('autoclicker', image, 'Ryxo AutoClicker', menu)
 
     def minimize_to_tray(self):
         self.root.withdraw()

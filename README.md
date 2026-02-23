@@ -28,3 +28,22 @@ venv\Scripts\activate   # Windows
 
 # Install dependencies
 pip install -r requirements.txt
+```
+
+## Usage
+```bash
+autoclicker.py
+```
+- Press F6 (or your custom hotkey) to start/stop
+- Minimize to system tray by closing the window
+
+## Important Notes
+- Run as Administrator for best compatibility in games/apps
+- For educational and automation/testing purposes only
+- Use responsibly — many games detect and ban auto-clicking tools
+    
+## License
+MIT License — feel free to use, modify and distribute
+
+## Contributing
+Pull requests are welcome! For major changes, please open an issue first Star ⭐ if you like the project!
